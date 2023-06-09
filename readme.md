@@ -1,5 +1,8 @@
 # Install Python yang versi baru.
+buat folder .env
 
+#### kemudian aktifkan sourece env
+`source .env/Scripts/activate`
 
 ### Windows
 double click run.bat
